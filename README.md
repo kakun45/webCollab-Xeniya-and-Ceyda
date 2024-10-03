@@ -22,7 +22,7 @@ Go Live
 
 1. Create a branch
 2. Commit changes
-3. Push to origin --set upstreem...
+3. Push to origin git push --set-upstream origin curr-branch-name
 4. Make PR in GitHUb with a button
 5. Merge PR (squish)
 6. Delete the branch in GH (make automatic)
