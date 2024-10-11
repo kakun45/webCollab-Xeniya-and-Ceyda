@@ -1,0 +1,8 @@
+# This is for practicing dealing with merge conflicts
+
+1. bananas
+2. strawberries
+3. mangos
+4. Jack Fruit
+5. avacado
+
