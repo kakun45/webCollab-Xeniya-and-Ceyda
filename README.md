@@ -27,3 +27,8 @@ Go Live
 5. Merge PR (squish)
 6. Delete the branch in GH (make automatic)
 7. Check out main, Pull main, delete branch
+
+## Merge Conflicts Handling
+
+1.
+2.
