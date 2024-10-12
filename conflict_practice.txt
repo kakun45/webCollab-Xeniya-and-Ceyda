@@ -8,3 +8,4 @@
 6. watermelon
 7. figs
 8. apple
+9. tomato
