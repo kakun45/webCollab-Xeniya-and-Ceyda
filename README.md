@@ -50,3 +50,5 @@ Go Live
 5. user_bunny `git pull origin main` (while still checked out on their branch)
 6. user_bunny resolve conflict (VS code) > stage > commit > push
 7. merge PR button active > cleanup branches
+
+8. Note: When pulling origin/main to a local branch you might get an error about non-fast-forward changes. This might fix it: `git pull --no-ff origin main` (instead of git pull origin main)
