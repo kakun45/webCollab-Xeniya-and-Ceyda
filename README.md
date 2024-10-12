@@ -39,4 +39,6 @@ Go Live
    7a. abort the merge
    7b. Do the merge again and fix the conflict
 6. Delete `feature1`
-7. checkout `main` , merge `feature2`, delete `feature2`
+7. checkout `main` , merge `feature2` (stage,commit), delete `feature2`
+
+## Todo:
