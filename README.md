@@ -24,9 +24,12 @@ Go Live
 2. Commit changes
 3. Push to origin git push `--set-upstream origin curr-branch-name`
 4. Make PR in GitHUb with a button
-5. Merge PR (squish)
+   4a. Reviewer: Look at the changes on Github
+   4aa. If want to look locally: `git checkout -b myb origin/myb`, where `myb` is the name of the branch to review. After took a look, delete it locally
+   4b. Reviewer: hit the approve button on GitHub
+5. PR-Sender: Merge PR (squish)
 6. Delete the branch in GH (make automatic)
-7. Check out main, Pull main, delete branch
+7. Check out main, Pull main, delete branch `git branch -d branch-name`
 
 ## Merge Conflicts (caused localy) Handling
 
